@@ -1,0 +1,11 @@
+SITE PEDRO ❤️ LAURA — COMO COLOCAR NO GITHUB
+
+1. Extraia o ZIP.
+2. Envie o arquivo index.html para um repositório no GitHub.
+3. Se quiser a música tocando pelo próprio site:
+   - coloque um arquivo de áudio chamado musica.mp3 na mesma pasta do index.html;
+   - use apenas um arquivo que você tenha direito de usar.
+4. No GitHub: Settings > Pages > Deploy from a branch > selecione a branch main e a pasta / (root).
+5. Salve e aguarde o link do GitHub Pages aparecer.
+
+A música escolhida foi "Pela Luz dos Olhos Teus (Bonus Track)", de Miúcha e Antônio Carlos Jobim. O site não inclui a gravação da música por questões de direitos autorais.
